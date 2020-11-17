@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{04505FE4-28F4-C528-F177-7CBBC89B6056}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/01_Scripts/01_System/ControlPanel.cs">
+    <Files>
+      <File FileName="Assets/00_Scenes/Main.unity" Line="30066" Column="1" />
+      <File FileName="Assets/01_Scripts/01_System/ControlPanel.cs" Line="31" Column="81" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="App" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="01_Scripts" expanded="True">
+                <Node name="01_System" expanded="True">
+                  <Node name="ControlPanel.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="39dd31a2-a0cf-4156-861a-e41b206525ed" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
